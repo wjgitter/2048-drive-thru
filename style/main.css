@@ -4,7 +4,7 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #fff;
-  color: #4d2523;
+  color: #006CA8;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -130,7 +130,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #4d2523;
+  color: #006CA8;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
