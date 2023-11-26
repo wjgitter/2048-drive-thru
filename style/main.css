@@ -115,12 +115,12 @@ h1.title {
   float: right; }
 
 .score-container:after {
-  content: "Cupcake"; }
+  content: "Order"; }
 .score-points:after {
   content: "Kcal"; }
 
 .best-container:after {
-  content: "Cupcake Max"; }
+  content: "Order Max"; }
 .best-points:after {
 	content: "Kcal Max"; }
 
