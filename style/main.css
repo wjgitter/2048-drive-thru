@@ -65,7 +65,7 @@ h1.title {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  background: #f67098;
+  background: #41458C;
   padding: 15px 0px;
   font-size: 19px;
   text-transform: capitalize;
@@ -89,7 +89,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #3c1b1a; }
+    color: #F8F78D; }
   .score-container .score-addition, .best-container .score-addition,
 	.score-points .score-addition, .best-points .score-addition {
     position: absolute;
@@ -178,7 +178,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #f67098;
+  background: #41458C;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -216,7 +216,7 @@ hr {
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #3c1b1a;
+      color: #F8F78D;
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }
@@ -534,7 +534,7 @@ hr {
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
-  color: #3c1b1a;
+  color: #F8F78D;
   height: 40px;
   line-height: 42px;
   display: block;
@@ -598,7 +598,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #f67098;
+    background: #41458C;
     border-radius: 6px;
     width: 280px;
     height: 280px;
@@ -636,7 +636,7 @@ hr {
         border-radius: 3px;
         padding: 0 20px;
         text-decoration: none;
-        color: #3c1b1a;
+        color: #F8F78D;
         height: 40px;
         line-height: 42px;
         margin-left: 9px; }
@@ -784,7 +784,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #f67098;
+  background: #41458C;
   border-radius: 4px;
   width: 73px;
   height: 73px;
